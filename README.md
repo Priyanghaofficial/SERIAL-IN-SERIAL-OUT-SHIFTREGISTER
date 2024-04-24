@@ -62,4 +62,4 @@ endmodule
 ![image](https://github.com/Priyanghaofficial/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/147121154/1a4dee7c-2d05-4ec5-b272-d6a585c0400b)
 
 **RESULTS**
-![Uploading image.png…]()
+SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
